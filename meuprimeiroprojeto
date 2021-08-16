@@ -1,0 +1,10 @@
+config.xml
+package.json
+www
+    css
+        index.css
+    img
+        logo.png
+    index.html
+    js
+        index.js
